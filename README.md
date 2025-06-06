@@ -92,6 +92,3 @@ This analysis segments McDonald's customers using **Principal Component Analysis
 - **Strategy development**: Each segment can have targeted marketing strategies
 - **Validation**: Ensures clusters make business sense
 
-**Analysis includes:**
-- Demographic profiles (age, gender)
--
